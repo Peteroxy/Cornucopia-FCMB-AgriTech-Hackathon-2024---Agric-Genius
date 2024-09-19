@@ -54,5 +54,5 @@ Agriculture is critical to economic growth, especially in countries like India, 
 
 1. Clone the project from GitHub:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/Peteroxy/Cornucopia-FCMB-AgriTech-Hackathon-2024---Agric-Genius.git
 
